@@ -1,0 +1,73 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+    background-color: #212121;
+}
+
+.text-center {
+
+    background-color: #212121;
+}
+
+.row {
+
+    background-color: #212121;
+}
+
+footer {
+
+    background-color: #212121;
+}
+
+btn btn-outline-light btn-floating m-1 {
+    color: #dfad73;
+
+
+
+}
+
+text-center text-lg-start text-white {
+    color: #dfad73;
+}
+
+text-uppercase mb-3 font-weight-bold  {
+    color: #dfad73;
+}
+
+
+
+
